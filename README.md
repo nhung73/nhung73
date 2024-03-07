@@ -36,7 +36,7 @@
 
 ###
 
-<h3 align="left">👩‍💻  Experience</h3>
+<h3 align="left">⚒️ Experience</h3>
 
 <p align="left">
 As a seasoned professional in financial services, complemented by recent training in Data Science from HyperionDev, I have successfully navigated roles in product governance and analysis across renowned institutions. At Cynergy Bank and Bank of New York Mellon, I led strategic initiatives in product governance, ensuring compliance with regulatory standards and fostering seamless product delivery. My tenure at IHS Markit saw me spearheading innovative product launches and collaborating cross-functionally to enhance data quality. With a proven track record spanning over two decades, I bring a wealth of experience in strategic leadership, stakeholder management, and project execution.
