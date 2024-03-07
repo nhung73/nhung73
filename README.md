@@ -46,7 +46,7 @@ As a seasoned professional in financial services, complemented by recent trainin
 
 ###
 
-<h3 align="left">🛠 Tools</h3>
+<h3 align="left">🛠 Skills</h3>
 
 ###
 
