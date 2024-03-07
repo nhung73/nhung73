@@ -1,5 +1,5 @@
 <div align="center">
-  <src="https://github.com/nhung73/nhung73/blob/main/NM.png" img height="150"/>
+  <img height="150" src="https://github.com/nhung73/nhung73/blob/main/NM.png" />
 </div>
 
 ###
@@ -26,12 +26,12 @@
 ###
 
 <p align="left">
-*   🌍  I'm based in London, United Kingdom
-*   🖥️  See my portfolio at [My GitHub Portfolio](http://https://github.com/nhung73?tab=repositories)
-*   ✉️  You can contact me at [nhung\_h@yahoo.com](mailto:nhung_h@yahoo.com)
-*   🧠  I'm learning Data Science
-*   🤝  I'm open to collaborating on Anything! (beware as I am a beginner...)
-*   ⚡  I'm passionate about travels, fitness and food...
+*   🌍  I'm based in London, United Kingdom <br>
+*   🖥️  See my portfolio at [My GitHub Portfolio](http://https://github.com/nhung73?tab=repositories) <br>
+*   ✉️  You can contact me at [nhung\_h@yahoo.com](mailto:nhung_h@yahoo.com) <br>
+*   🧠  I'm learning Data Science <br>
+*   🤝  I'm open to collaborating on Anything! (beware as I am a beginner...) <br>
+*   ⚡  I'm passionate about travels, fitness and food... <br>
 </p>
 
 ###
