@@ -30,7 +30,7 @@ I'm Nhung Mascio <br>
 <p align="left">
 *   🌍  I'm based in London, United Kingdom <br>
 *   🖥️  See my portfolio at [My GitHub Portfolio](http://https://github.com/nhung73?tab=repositories) <br>
-*   ✉️  You can contact me at [nhung\_h@yahoo.com](mailto:nhung_h@yahoo.com) <br>
+*   ✉️  You can contact me at [nhung_h@yahoo.com](mailto:nhung_h@yahoo.com) <br>
 *   🧠  I'm learning Data Science <br>
 *   🤝  I'm open to collaborating on Anything! (beware as I am a beginner...) <br>
 *   ⚡  I'm passionate about travels, fitness and food... <br>
