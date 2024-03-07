@@ -11,7 +11,10 @@ As a seasoned professional in financial services, complemented by recent trainin
 *   ✉️  You can contact me at [nhung\_h@yahoo.com](mailto:nhung_h@yahoo.com)
 *   🧠  I'm learning Data Science
 *   🤝  I'm open to collaborating on Anything!
-*   ⚡  I'm passionate about travels, fitness and food...### Skills 
+*   ⚡  I'm passionate about travels, fitness and food...
+*
+
+### Skills 
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
                     </p>
