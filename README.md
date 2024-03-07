@@ -27,7 +27,7 @@
 
 <p align="left">
 I'm Nhung Mascio <br>
-
+<p align="left">
 *   🌍  I'm based in London, United Kingdom <br>
 *   🖥️  See my portfolio at [My GitHub Portfolio](http://https://github.com/nhung73?tab=repositories) <br>
 *   ✉️  You can contact me at [nhung\_h@yahoo.com](mailto:nhung_h@yahoo.com) <br>
