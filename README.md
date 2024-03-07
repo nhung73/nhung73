@@ -16,7 +16,7 @@ As a seasoned professional in financial services, complemented by recent trainin
 ### Skills 
 <p align="left">
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" width="75" height="32" alt="Python" />
+    <img src="https://github.com/nhung73/nhung73/blob/0e536b3839381f4a8dafed704af41ae27b04c1be/python_logo.png?raw=true" width="40" height="40" alt="Python" />
   </a>
 </p>
                     
