@@ -25,6 +25,7 @@
 
 ###
 
+<p align="left">
 I'm Nhung Mascio <br>
 <p align="left">
 *   🌍  I'm based in London, United Kingdom <br>
