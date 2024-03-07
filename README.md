@@ -25,7 +25,7 @@ As a seasoned professional in financial services, complemented by recent trainin
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
       <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="140" height="45" />
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="140" height="40" />
     </picture>
   </a>
 </p>
