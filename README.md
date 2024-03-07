@@ -21,11 +21,11 @@ As a seasoned professional in financial services, complemented by recent trainin
 ### Socials
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/profile" target="_blank" rel="noreferrer">
+  <a href="https://www.linkedin.com/in/nhungmascio" target="_blank" rel="noreferrer">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
       <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="100" height="45" />
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="140" height="45" />
     </picture>
   </a>
 </p>
