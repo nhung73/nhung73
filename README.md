@@ -25,9 +25,10 @@ As a seasoned professional in financial services, complemented by recent trainin
 <p align="left">
   <a href="https://www.linkedin.com/in/nhungmascio" target="_blank" rel="noreferrer">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="90" height="32" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/nhung73/nhung73/blob/0e536b3839381f4a8dafed704af41ae27b04c1be/linkedIn.png?raw=true" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github.com/nhung73/nhung73/blob/0e536b3839381f4a8dafed704af41ae27b04c1be/linkedIn.png?raw=true" />
+      <img src="https://github.com/nhung73/nhung73/blob/0e536b3839381f4a8dafed704af41ae27b04c1be/linkedIn.png?raw=true" width="32" height="32" />
     </picture>
   </a>
 </p>
+
